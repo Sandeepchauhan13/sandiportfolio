@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sandiportfolio/static/css/main.4d90c20e.css",
-    "main.js": "/sandiportfolio/static/js/main.563485e1.js",
+    "main.js": "/sandiportfolio/static/js/main.f83ee12e.js",
     "static/media/newsapi.png": "/sandiportfolio/static/media/newsapi.d5d27e978e1cbf9c6440.png",
     "static/media/routing.png": "/sandiportfolio/static/media/routing.3ba80e616d75c1d0111e.png",
     "static/media/sanddev.jpg": "/sandiportfolio/static/media/sanddev.cf9f21503bd5ba7bb985.jpg",
@@ -16,10 +16,10 @@
     "static/media/javascript.png": "/sandiportfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/sandiportfolio/index.html",
     "main.4d90c20e.css.map": "/sandiportfolio/static/css/main.4d90c20e.css.map",
-    "main.563485e1.js.map": "/sandiportfolio/static/js/main.563485e1.js.map"
+    "main.f83ee12e.js.map": "/sandiportfolio/static/js/main.f83ee12e.js.map"
   },
   "entrypoints": [
     "static/css/main.4d90c20e.css",
-    "static/js/main.563485e1.js"
+    "static/js/main.f83ee12e.js"
   ]
 }
