@@ -84,7 +84,7 @@ const Home = (props) => {
             <div className="flex">
             <div>
               <div className="text-[20px] font-tertiary text-gradient mb-2 text-blue-300">
-<CountUp start={0} end={.6} duration={2}/>
+<CountUp start={0} end={7} duration={2}/>
               </div>
               {/* <div className="font-primary text-sm tracking-[1px] mx-2 text-white"> */}
               <div className="font-primary text-sm tracking-[1px] mx-2" style={{color: props.mode==='light'?'black':'#fef08a'}}>
@@ -104,7 +104,7 @@ const Home = (props) => {
             </div>
             <div>
               <div className="text-[20px] font-tertiary text-gradient mb-2 mx-3 text-pink-500">
-<CountUp start={0} end={13} duration={13}/>k+
+<CountUp start={0} end={13} duration={13}/>
               </div>
               {/* <div className="font-primary text-sm  tracking-[1px] text-white"> */}
               <div className="font-primary text-sm  tracking-[1px]" style={{color: props.mode==='light'?'black':'#fef08a'}}>
