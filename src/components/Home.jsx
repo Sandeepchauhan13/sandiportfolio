@@ -32,7 +32,7 @@ const Home = (props) => {
     > 
       <TypeAnimation
         sequence={[
-          'Full Stack Developer',
+          'Front End Developer',
           800,
           () => setTextColor('aqua'),
           'React, Nextjs, Javascript, Nodejs',
@@ -74,7 +74,7 @@ const Home = (props) => {
             <p className=" py-4 max-w-md" style={{color: props.mode==='light'?'black':'#fef08a'}}>
               {/* <span className="text-2xl text-blue-300 mr-2">Full Stack Developer</span>  */}
               <span className="text-2xl mr-2"style={{
-          color: props.mode==='light'?'#db2777':'white'}}>Full Stack Developer</span> 
+          color: props.mode==='light'?'#db2777':'white'}}>Front End Developer</span> 
                 I have Degree and  3 years Engineering Diploma in Computer Science.
                 Passion for Web development. I want to learn all my life.
             
